@@ -1,0 +1,21 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.first-card {
+    background-color: rgb(201, 82, 102);
+    color: white;
+    border: 0;
+}
+.navbar-brand img {
+    width: 100px;
+    height: 100px;
+}
+.footer img {
+    width: 200px;;
+    height: 200px;
+}
+.social-contact ul li {
+    font-size: 2rem;
+}
